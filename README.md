@@ -1,6 +1,4 @@
-# 비트 버디즈 (Beat Buddies)
+# beat-buddies-public
 
-Ponykit의 모바일 리듬 게임 비트 버디즈의 공개 안내 페이지입니다.
-
-- 개인정보처리방침: https://ponykit.github.io/beat-buddies-public/privacy.html
-- 문의: ponykit@gmail.com
+비트 버디즈의 옛 개인정보처리방침 주소입니다. 2026-10-06부터 공용 방침
+https://ponykit.github.io/game-services-privacy/ 로 넘어갑니다.
